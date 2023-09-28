@@ -1,6 +1,6 @@
 {
-    "name": "lodx_mobile",
-    "short_name": "lodx_mobile",
+    "name": "fd_web",
+    "short_name": "fd_web",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
