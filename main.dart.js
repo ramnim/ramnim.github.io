@@ -22925,7 +22925,7 @@ case"green":return B.G4
 default:return B.G5}},
 Sg(){var s=0,r=A.U(t.vC),q,p=2,o,n,m,l,k,j,i,h,g,f,e,d,c,b,a,a0,a1,a2
 var $async$Sg=A.V(function(a3,a4){if(a3===1){o=a4
-s=p}while(true)switch(s){case 0:a0="http://ec2-34-224-229-103.compute-1.amazonaws.com:8000/v1/devices/"
+s=p}while(true)switch(s){case 0:a0="https://34.224.229.103:8001/v1/devices/"
 a1=A.a([],t.sX)
 p=4
 s=7
@@ -22973,7 +22973,7 @@ case 2:return A.R(o,r)}})
 return A.T($async$Sg,r)},
 Se(a){var s=0,r=A.U(t.RM),q,p=2,o,n,m,l,k,j,i,h
 var $async$Se=A.V(function(b,c){if(b===1){o=c
-s=p}while(true)switch(s){case 0:i="http://ec2-34-224-229-103.compute-1.amazonaws.com:8000/v1/device/{deviceId}?deviceid="+a
+s=p}while(true)switch(s){case 0:i="https://34.224.229.103:8001/v1/device/{deviceId}?deviceid="+a
 Date.now()
 n=new A.mg(B.hb)
 p=4
@@ -23003,7 +23003,7 @@ case 2:return A.R(o,r)}})
 return A.T($async$Se,r)},
 Sf(a){var s=0,r=A.U(t.RM),q,p=2,o,n,m,l,k,j,i,h
 var $async$Sf=A.V(function(b,c){if(b===1){o=c
-s=p}while(true)switch(s){case 0:i="http://ec2-34-224-229-103.compute-1.amazonaws.com:8000/v1/devices/{deviceId}?deviceid="+a+"&start_time=%22%22&detection_count=2000"
+s=p}while(true)switch(s){case 0:i="https://34.224.229.103:8001/v1/devices/{deviceId}?deviceid="+a+"&start_time=%22%22&detection_count=2000"
 Date.now()
 n=new A.mg(B.hb)
 p=4
