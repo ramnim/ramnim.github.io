@@ -22102,7 +22102,7 @@ case"green":return B.Fx
 default:return B.Fy}},
 QI(){var s=0,r=A.W(t.vC),q,p=2,o,n,m,l,k,j,i,h,g,f,e,d,c,b,a,a0,a1,a2
 var $async$QI=A.X(function(a3,a4){if(a3===1){o=a4
-s=p}while(true)switch(s){case 0:a0="http://falldetect.org:8000/v1/devices/"
+s=p}while(true)switch(s){case 0:a0="https://falldetect.org:8000/v1/devices/"
 a1=A.a([],t.sX)
 p=4
 s=7
@@ -22151,7 +22151,7 @@ case 2:return A.T(o,r)}})
 return A.V($async$QI,r)},
 QG(a){var s=0,r=A.W(t.RM),q,p=2,o,n,m,l,k,j,i,h
 var $async$QG=A.X(function(b,c){if(b===1){o=c
-s=p}while(true)switch(s){case 0:i="http://falldetect.org:8000/v1/device/{deviceId}?deviceid="+a
+s=p}while(true)switch(s){case 0:i="https://falldetect.org:8000/v1/device/{deviceId}?deviceid="+a
 Date.now()
 n=new A.lP(B.h7)
 p=4
@@ -22181,7 +22181,7 @@ case 2:return A.T(o,r)}})
 return A.V($async$QG,r)},
 QH(a){var s=0,r=A.W(t.RM),q,p=2,o,n,m,l,k,j,i,h
 var $async$QH=A.X(function(b,c){if(b===1){o=c
-s=p}while(true)switch(s){case 0:i="http://falldetect.org:8000/v1/devices/{deviceId}?deviceid="+a+"&start_time=%22%22&detection_count=30"
+s=p}while(true)switch(s){case 0:i="https://falldetect.org:8000/v1/devices/{deviceId}?deviceid="+a+"&start_time=%22%22&detection_count=30"
 Date.now()
 n=new A.lP(B.h7)
 p=4
