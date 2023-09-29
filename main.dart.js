@@ -69931,7 +69931,7 @@ glv(){return"\\"}}
 A.a0n.prototype={}
 A.FI.prototype={
 K(a){var s=null
-return new A.vl(new A.tV(s),"Persistent",A.alt(s,B.ae,B.d8,s),!1,s)}}
+return new A.vl(new A.tV(s),"Swan AI Studios",A.alt(s,B.ae,B.d8,s),!1,s)}}
 A.ja.prototype={
 fl(){var s=this,r=s.w,q=t.z,p=s.x,o=s.y,n=s.z
 return A.aI(["deviceId",s.a,"s3Url",s.b,"imageKiloByteSize",s.c,"imageType",s.d,"pixelHeight",s.e,"pixelWidth",s.f,"dateTime",s.r,"person",A.dO(new A.a6(r,new A.UG(),A.a0(r).i("a6<1,@>")),!0,q),"patient",A.dO(new A.a6(p,new A.UH(),A.a0(p).i("a6<1,@>")),!0,q),"bed",A.dO(new A.a6(o,new A.UI(),A.a0(o).i("a6<1,@>")),!0,q),"rail",A.dO(new A.a6(n,new A.UJ(),A.a0(n).i("a6<1,@>")),!0,q),"statusColor",s.Q,"StatusMessage",s.as],t.N,q)}}
